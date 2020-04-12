@@ -17,7 +17,3 @@ mongoose.connect('mongodb://localhost/AgendaDB', (err, res) => {
 	})
 })
 
-//const Server = http.createServer(app)
-//app.listen(port, function() {
-	//	console.log('Servidor corriendo en http://localhost:'+port)
-//})
